@@ -1,0 +1,8 @@
+Create class Fruit (field name) which implements two interfaces: IJuiceable (method makeJuice()) and ISliceable (method makeSlices()). When we call these methods for Fruit - it should return string "Juice from Name_Of_Fruit" (or "Slice from Name_Of_Fruit"). 
+Class Fresh consists of two containers: Juices and Slices. By calling method addToJuices() (or addToSlices()) we may add new Fruit to these containers. By calling method makeFresh() we may produce all Freshes (Juices and Slices).
+
+Which hierarchy of classes is the best for solving this problem?
+Write short code to demonstrate your solution.
+Your code should include class (interface) aggregation or inheritance, should use collections or generics, should implement exception handling.
+
+
