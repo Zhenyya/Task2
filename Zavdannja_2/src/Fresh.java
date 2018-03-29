@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//fsdfsffsfsffdsfsfsdfsdfsdfsfsfsdfsdfsdfsdfsfsfsd
 public class Fresh {
 	ArrayList<Fruit> Juices = new ArrayList<>();
 	private ArrayList<Fruit> Slices = new ArrayList<>();
